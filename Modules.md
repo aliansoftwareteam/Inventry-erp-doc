@@ -1,6 +1,12 @@
+# **Modules**
+
+Welcome to the Inventry ERP documentation. This file provides a concise overview of the system's major modules and their key subsections to help you navigate features and find detailed pages for each area.
+
+---
+
 # 🟧 **1. Sales**
 
-| **Subsection**     | **Description**                                        |
+| **Submodule**     | **Description**                                        |
 | ------------------ | ------------------------------------------------------ |
 | Inquiry Management | Record incoming customer inquiries.                    |
 | Quotation          | Create and send quotations; convert to Sales Order.    |
@@ -13,7 +19,7 @@
 
 # 🟨 **2. Inventory / Material Management**
 
-| **Subsection**          | **Description**                                      |
+| **Submodule**          | **Description**                                      |
 | ----------------------- | ---------------------------------------------------- |
 | Stock Check (Real-Time) | Auto-check availability during Sales Order creation. |
 | Goods Receipt (GRN)     | Add received materials into inventory.               |
@@ -27,7 +33,7 @@
 
 # 🟩 **3. Purchase**
 
-| **Subsection**            | **Description**                               |
+| **Submodule**            | **Description**                               |
 | ------------------------- | --------------------------------------------- |
 | Purchase Requisition (PR) | Auto-created when stock is insufficient.      |
 | Vendor Selection          | Select supplier from Party Master.            |
@@ -41,7 +47,7 @@
 
 # 🟥 **4. Manufacturing / Production**
 
-| **Subsection**                | **Description**                               |
+| **Submodule**                | **Description**                               |
 | ----------------------------- | --------------------------------------------- |
 | Work Order (WO)               | Production order created from Sales Order.    |
 | Bill of Materials (BOM)       | Define raw materials needed for production.   |
@@ -55,7 +61,7 @@
 
 # 🟪 **5. Quality Control**
 
-| **Subsection**        | **Description**                                |
+| **Submodule**        | **Description**                                |
 | --------------------- | ---------------------------------------------- |
 | Incoming QC (IQC)     | Inspect quality of purchased materials.        |
 | In-Process QC (IPQC)  | Quality checks during manufacturing.           |
@@ -67,7 +73,7 @@
 
 # 🟫 **6. Packaging**
 
-| **Subsection**         | **Description**                                   |
+| **Submodule**         | **Description**                                   |
 | ---------------------- | ------------------------------------------------- |
 | Packaging Execution    | Pack finished goods with labels & units.          |
 | Packaging QC           | Final inspection of packed goods (weight/labels). |
@@ -78,7 +84,7 @@
 
 # 🟦 **7. Dispatch & Logistics**
 
-| **Subsection**        | **Description**                           |
+| **Submodule**        | **Description**                           |
 | --------------------- | ----------------------------------------- |
 | Dispatch Planning     | Plan shipments for Sales Orders.          |
 | Delivery Challan (DC) | Document for dispatching goods.           |
@@ -90,7 +96,7 @@
 
 # 🟧 **8. Finance & Billing**
 
-| **Subsection**                 | **Description**                                  |
+| **Submodule**                 | **Description**                                  |
 | ------------------------------ | ------------------------------------------------ |
 | Sales Invoice                  | Invoice generation after dispatch.               |
 | Purchase Invoice               | Vendor invoice entry.                            |
@@ -104,7 +110,7 @@
 
 # 🟩 **9. Master Data (Updated with Unified Party Master)**
 
-| **Subsection**                              | **Description**                             |
+| **Submodule**                              | **Description**                             |
 | ------------------------------------------- | ------------------------------------------- |
 | **Party Master (Customer / Vendor / Both)** | Single master for all business partners.    |
 | Item Master                                 | Raw materials, products, specifications.    |
@@ -118,7 +124,7 @@
 
 # 🛠 **10. Administration & Security**
 
-| **Subsection**         | **Description**                           |
+| **Submodule**         | **Description**                           |
 | ---------------------- | ----------------------------------------- |
 | User Management        | Create & manage system users.             |
 | Role & Permissions     | Access control for all sections.          |
