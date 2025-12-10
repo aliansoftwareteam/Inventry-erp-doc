@@ -26,28 +26,19 @@ Documents that create actual stock movement and update inventory levels.
 | **Delivery Note**    | Records the dispatch of goods to customers or project sites, reducing stock.                                              |
 | **Purchase Receipt** | Captures the physical receipt of goods from suppliers, increasing stock.                                                  |
 | **Pick List**        | Guides warehouse staff on which items and stock locations to pick for delivery or production orders.                      |
-| **Delivery Trip**    | Manages and tracks vehicle trips used for delivering multiple delivery notes.                                             |
 
 ---
 
-## **3. Reports**
+## **3. Serial No and Batch**
 
-All analytical and operational reports related to stock levels, movements, and performance.
+Used for traceability and lifecycle tracking of serialized or batch-managed products.
 
-### **Stock Reports**
-
-| Report                           | Description                                                                              |
-| -------------------------------- | ---------------------------------------------------------------------------------------- |
-| **Stock Ledger**                 | Full transaction-wise movement of stock including quantities, warehouses, and valuation. |
-| **Stock Balance**                | Real-time available stock across warehouses.                                             |
-| **Stock Projected Qty**          | Future stock projection including reserved, ordered, and planned quantities.             |
-| **Stock Summary**                | Consolidated summary of quantities, value, and stock movement.                           |
-| **Stock Ageing**                 | Shows how long an item has been in inventory; helps identify slow-moving items.          |
-| **Item Price Stock**             | Displays stock valuation and item pricing details.                                       |
-| **Warehouse Wise Stock Balance** | Shows stock quantity distributed across each warehouse or location.                      |
+| Feature       | Description                                                                                                                 |
+| ------------- | --------------------------------------------------------------------------------------------------------------------------- |
+| **Serial No** | Unique identification for items tracked individually (e.g., electronics, machines). Includes warranty and delivery history. |
+| **Batch**     | Group of items produced or received together with shared properties like expiry or manufacture date.                        |
 
 ---
-
 ## **4. Settings**
 
 Configuration tools to define how inventory behaves across the system.
@@ -64,18 +55,8 @@ Configuration tools to define how inventory behaves across the system.
 
 ---
 
-## **5. Serial No and Batch**
 
-Used for traceability and lifecycle tracking of serialized or batch-managed products.
-
-| Feature       | Description                                                                                                                 |
-| ------------- | --------------------------------------------------------------------------------------------------------------------------- |
-| **Serial No** | Unique identification for items tracked individually (e.g., electronics, machines). Includes warranty and delivery history. |
-| **Batch**     | Group of items produced or received together with shared properties like expiry or manufacture date.                        |
-
----
-
-## **6. Tools**
+## **5. Tools**
 
 Utilities to maintain, adjust, and audit the inventory.
 
