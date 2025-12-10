@@ -1,6 +1,6 @@
 # 📘 **Manufacturing – Overview Document**
 
-This document provides a **high-level overview** of all components available in the Manufacturing module.
+This document provides a **high-level overview** of all Features available in the Manufacturing module.
 
 ---
 
@@ -8,7 +8,7 @@ This document provides a **high-level overview** of all components available in 
 
 Covers all planning, execution, and shop-floor activities required to run manufacturing operations.
 
-| Component               | Overview Description                                                                          |
+| Feature               | Overview Description                                                                          |
 | ----------------------- | --------------------------------------------------------------------------------------------- |
 | **Work Order (WO)**          | Main document used to manufacture an item. Defines quantity, routing, and required materials. |
 | **Production Plan**     | Converts demand into a plan for production, ensuring capacity and material availability.      |
@@ -21,7 +21,7 @@ Covers all planning, execution, and shop-floor activities required to run manufa
 
 Manages the product structure (materials + operations) and shop-floor resource definitions.
 
-| Component                   | Overview Description                                                                 |
+| Feature                   | Overview Description                                                                 |
 | --------------------------- | ------------------------------------------------------------------------------------ |
 | **Bill of Materials (BOM)** | Defines components, quantities, scrap %, and routing steps needed to make a product. |
 | **Workstation Type**        | Category of workstation (machine type, manpower type).                               |
