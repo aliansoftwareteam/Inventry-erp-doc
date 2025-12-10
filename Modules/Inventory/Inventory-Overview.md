@@ -11,8 +11,7 @@ Master data used to define all items and product structures.
 | **Item**              | The core master record representing products, raw materials, consumables, and services. Contains item details, pricing, defaults, and inventory properties. |
 | **Item Group**        | Categorizes items for reporting, pricing rules, and grouping. Helps in analytics and filtering.                                                             |
 | **Product Bundle**    | A combination of multiple items sold as a single packaged product. Useful for gift sets, kits, or combo offers.                                             |
-| **Item Alternative**  | Maintains substitute items that can be used when the primary item is unavailable.                                                                           |
-| **Item Manufacturer** | Stores manufacturer details linked to items, useful for vendor management and traceability.                                                                 |
+| **Item Alternative**  | Maintains substitute items that can be used when the primary item is unavailable.                        |
 
 ---
 
