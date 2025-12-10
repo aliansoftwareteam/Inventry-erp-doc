@@ -222,6 +222,5 @@ Material Request is a foundational document in inventory and manufacturing opera
 * Supports procurement and planning
 * Enhances warehouse coordination
 * Enables smooth manufacturing workflows
-* Does **not** involve accounting (per your requirement)
 
 ---

@@ -254,8 +254,6 @@ Expired or defective batches are transferred to scrap or return warehouses.
 
 # **10. Integration with Other Modules**
 
-*(No accounting references included)*
-
 | Module                               | Integration Behavior                   |
 | ------------------------------------ | -------------------------------------- |
 | **Purchase Receipt**                 | Creates batch for received goods.      |

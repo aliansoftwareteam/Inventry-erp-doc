@@ -45,12 +45,9 @@ Configuration tools to define how inventory behaves across the system.
 
 | Setting                   | Description                                                                                      |
 | ------------------------- | ------------------------------------------------------------------------------------------------ |
-| **Stock Settings**        | Global configuration for stock valuation method, auto-reorder, posting rules, and item behavior. |
 | **Warehouse**             | Creation and management of storage locations, warehouses, and hierarchical warehouse structure.  |
 | **Unit of Measure (UOM)** | Defines measurement units (kg, box, pcs), controlling conversions and transaction validity.      |
-| **Item Variant Settings** | Controls attribute-based item variant creation (size, color, grade).                             |
 | **Brand**                 | Categorization of items by brand for reporting and filtering.                                    |
-| **Item Attribute**        | Defines item characteristics used for generating item variants.                                  |
 | **UOM Conversion Factor** | Maintains conversion rules between units (e.g., 1 box = 12 pieces).                              |
 
 ---

@@ -193,8 +193,6 @@ Some companies allow receiving more than ordered.
 
 # **9. Integration with Other Modules**
 
-*(No accounting references included)*
-
 | Module               | Integration Description                                   |
 | -------------------- | --------------------------------------------------------- |
 | **Purchase Order**   | Auto-fetch items and update pending quantities.           |

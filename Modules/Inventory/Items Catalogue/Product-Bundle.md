@@ -144,7 +144,6 @@ Two display options typically exist:
 1. Show **bundle item only**
 2. Show **bundle item + component items**
 
-(Depends on company preference—no accounting impact included.)
 
 ### **6.4 Stock Ledger**
 
@@ -186,7 +185,6 @@ Two display options typically exist:
 | **Stock**              | Deducts component inventory at time of delivery.                                     |
 | **Manufacturing**      | Not used for production; bundles are sales-only structures.                          |
 
-(As per your rule, **no accounting module connections are mentioned**.)
 
 ---
 

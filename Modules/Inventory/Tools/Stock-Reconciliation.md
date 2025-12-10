@@ -195,8 +195,6 @@ Expired or missing batches corrected through batch-level reconciliation.
 
 # **9. Integration with Other Modules**
 
-*(No accounting links included as per requirement)*
-
 | Module                         | Integration Behavior                             |
 | ------------------------------ | ------------------------------------------------ |
 | **Stock Ledger**               | Shows adjustment entries for traceability.       |

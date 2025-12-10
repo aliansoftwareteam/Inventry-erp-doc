@@ -197,7 +197,6 @@ Examples:
 
 # **9. Integration with Other Modules**
 
-*(No accounting connections included)*
 
 | Module                                   | Integration Behavior                                 |
 | ---------------------------------------- | ---------------------------------------------------- |

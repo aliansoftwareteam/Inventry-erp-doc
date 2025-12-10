@@ -106,8 +106,6 @@ Below is a structured explanation of fields in the Serial No master.
 
 ## **5.3 Purchase / Receipt Details**
 
-(Operational — not accounting related)
-
 | Field                | Description                                                |
 | -------------------- | ---------------------------------------------------------- |
 | **Purchase Receipt** | Document through which the serial arrived (if applicable). |
@@ -232,8 +230,6 @@ Common status options include:
 ---
 
 # **9. Integration with Other Modules**
-
-*(No accounting references included)*
 
 | Module                    | Integration Behavior                              |
 | ------------------------- | ------------------------------------------------- |

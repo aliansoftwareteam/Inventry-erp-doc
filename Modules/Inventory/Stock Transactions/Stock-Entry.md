@@ -195,8 +195,6 @@ Used in production:
 
 # **9. Integration with Other Modules**
 
-(As required, **no accounting references included**.)
-
 | Module               | Integration Behavior                                                                 |
 | -------------------- | ------------------------------------------------------------------------------------ |
 | **Material Request** | Stock Entry fulfills Material Issue, Transfer, or Manufacture requests.              |
